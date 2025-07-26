@@ -16,4 +16,4 @@ spec:
         - name: todo
           image: mhamaadd/todo-node-app:latest
           ports:
-            - containerPort: 3000
+            - containerPort: 4000
